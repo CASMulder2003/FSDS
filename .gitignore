@@ -1,3 +1,15 @@
+*.xls
+*.xlsx
+*.zip
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+*.csv
+*.gz
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
